@@ -1,0 +1,3 @@
+text = "Python for Beginners"
+result = text.index('f')
+print(result)
